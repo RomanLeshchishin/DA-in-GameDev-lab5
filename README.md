@@ -39,7 +39,12 @@
 
 ## Задание 1
 Код в python:
+Запуск программы
 ![Изображение_1](https://user-images.githubusercontent.com/114608473/192857659-da59f9e3-fb3a-45d2-a8bc-b515065944d6.jpg)
+Сохранение кода в google.colab
+![Изображение_2](https://user-images.githubusercontent.com/114608473/192858325-06623cda-a1d5-4414-9bda-0441ff453e01.jpg)
+Код в unity:
+![Изображение_3](https://user-images.githubusercontent.com/114608473/192858462-bb2a0ec4-a4b3-4b5b-8bda-83bec3dbf46d.jpg)
 ## Задание 2
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
 
