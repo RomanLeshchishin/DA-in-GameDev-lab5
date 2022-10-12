@@ -49,33 +49,13 @@
 ![image](https://user-images.githubusercontent.com/114608473/195441218-f2f670f7-5932-4fd0-bcf2-4a46adc31a35.png)
 ![image](https://user-images.githubusercontent.com/114608473/195441285-111fef2f-33be-4faf-8cc2-730f0cc56c7e.png)
 ## Задание 2
-### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
-
-- Перечисленные в этом туториале действия могут быть выполнены запуском на исполнение скрипт-файла, доступного [в репозитории](https://github.com/Den1sovDm1triy/hfss-scripting/blob/main/ScreatingSphereInAEDT.py).
-- Для запуска скрипт-файла откройте Ansys Electronics Desktop. Перейдите во вкладку [Automation] - [Run Script] - [Выберите файл с именем ScreatingSphereInAEDT.py из репозитория].
-
-```py
-
-import ScriptEnv
-ScriptEnv.Initialize("Ansoft.ElectronicsDesktop")
-oDesktop.RestoreWindow()
-oProject = oDesktop.NewProject()
-oProject.Rename("C:/Users/denisov.dv/Documents/Ansoft/SphereDIffraction.aedt", True)
-oProject.InsertDesign("HFSS", "HFSSDesign1", "HFSS Terminal Network", "")
-oDesign = oProject.SetActiveDesign("HFSSDesign1")
-oEditor = oDesign.SetActiveEditor("3D Modeler")
-oEditor.CreateSphere(
-	[
-		"NAME:SphereParameters",
-		"XCenter:="		, "0mm",
-		"YCenter:="		, "0mm",
-		"ZCenter:="		, "0mm",
-		"Radius:="		, "1.0770329614269mm"
-	], 
-)
-
-```
-
+Код в python:
+![image](https://user-images.githubusercontent.com/114608473/195444568-e2853b47-6277-4f77-ac09-a99452ba05ba.png)
+![image](https://user-images.githubusercontent.com/114608473/195444607-57e41c61-06c1-44cc-87e8-bf801af2085e.png)
+Полученные данные после выполнения кода в python:
+![image](https://user-images.githubusercontent.com/114608473/195443905-0f5724c1-2c67-43b5-b50e-3dab760ee7c6.png)
+Вывод данных в таблицу UnitySheets:
+![image](https://user-images.githubusercontent.com/114608473/195444489-0c36c44a-bead-4265-b645-cf48f03b3bc0.png)
 ## Задание 3
 ### Какова роль параметра Lr? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ. В качестве эксперимента можете изменить значение параметра.
 
