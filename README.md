@@ -44,8 +44,10 @@
 ![image](https://user-images.githubusercontent.com/114608473/195199513-5abae065-a196-4740-bf3a-ff05da0d4454.png)
 Вывод в консоль в проекте Unity
 ![image](https://user-images.githubusercontent.com/114608473/195199792-3b7c4707-a9a5-4629-8712-90530c873b9e.png)
-Проект Unity:
-![Изображение_3](https://user-images.githubusercontent.com/114608473/192858462-bb2a0ec4-a4b3-4b5b-8bda-83bec3dbf46d.jpg)
+Код в C#:
+![image](https://user-images.githubusercontent.com/114608473/195441159-fd9a5468-25eb-4d98-b5b4-be33223a2f66.png)
+![image](https://user-images.githubusercontent.com/114608473/195441218-f2f670f7-5932-4fd0-bcf2-4a46adc31a35.png)
+![image](https://user-images.githubusercontent.com/114608473/195441285-111fef2f-33be-4faf-8cc2-730f0cc56c7e.png)
 ## Задание 2
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
 
