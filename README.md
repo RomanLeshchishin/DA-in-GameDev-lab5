@@ -52,7 +52,7 @@
 ![image](https://user-images.githubusercontent.com/114608473/195441285-111fef2f-33be-4faf-8cc2-730f0cc56c7e.png)
 ## Задание 2
 Код в python:
-![image](https://user-images.githubusercontent.com/114608473/195445931-0a8797dc-7407-47d3-a47e-b84e899572fd.png)
+![image](https://user-images.githubusercontent.com/114608473/195447104-c33fe88c-4e58-484e-91b1-eadc511d6fa6.png)
 ![image](https://user-images.githubusercontent.com/114608473/195444607-57e41c61-06c1-44cc-87e8-bf801af2085e.png)
 Полученные данные после выполнения кода в python:
 ![image](https://user-images.githubusercontent.com/114608473/195443905-0f5724c1-2c67-43b5-b50e-3dab760ee7c6.png)
