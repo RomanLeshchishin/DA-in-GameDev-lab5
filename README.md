@@ -46,18 +46,10 @@
 ![ImageMLATest2](https://user-images.githubusercontent.com/114608473/206839525-a0ef91ef-20e8-45ce-bb8c-8d2aa102c118.jpg)
 ![ImageMLATest1](https://user-images.githubusercontent.com/114608473/206839532-de8df685-5fc8-487d-a065-d2c27b6d90b1.jpg)
 Результаты обучения модели MLAgent в прикреплённом файле.
-Код в C#:
-![image](https://user-images.githubusercontent.com/114608473/195441159-fd9a5468-25eb-4d98-b5b4-be33223a2f66.png)
-![image](https://user-images.githubusercontent.com/114608473/195441218-f2f670f7-5932-4fd0-bcf2-4a46adc31a35.png)
-![image](https://user-images.githubusercontent.com/114608473/195441285-111fef2f-33be-4faf-8cc2-730f0cc56c7e.png)
 ## Задание 2
-Код в python:
-![image](https://user-images.githubusercontent.com/114608473/195447104-c33fe88c-4e58-484e-91b1-eadc511d6fa6.png)
-![image](https://user-images.githubusercontent.com/114608473/195444607-57e41c61-06c1-44cc-87e8-bf801af2085e.png)
-Полученные данные после выполнения кода в python:
-![image](https://user-images.githubusercontent.com/114608473/195443905-0f5724c1-2c67-43b5-b50e-3dab760ee7c6.png)
-Вывод данных в таблицу UnitySheets:
-![image](https://user-images.githubusercontent.com/114608473/195444489-0c36c44a-bead-4265-b645-cf48f03b3bc0.png)
+Комментарии к файлу rollerball_config:
+![ImageRollerBallConfig](https://user-images.githubusercontent.com/114608473/206841484-71d4f133-b81b-450c-8f5b-32e708ced661.jpg)
+Вывод:игровой баланс заключается в достижении определенного уровня фана, при котором игра не кажется слишком сложной, но в то же время в неё интересно играть и пользователь получает удовольствие от игры. Использование систем машинного обучения позволяет проводить большое количество тестов с различными параметрами, выявлять элементы игры, которые нарушают баланс, изменять эти элементы и снова проводить тесты, добиваясь равновесия в игре. Благодаря таким системам разработчики тратят меньше времени на тестировании различных стратегий и лучше выявляют элементы дисбаланса.
 ## Задание 3
 ### Какова роль параметра Lr? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ. В качестве эксперимента можете изменить значение параметра.
 
