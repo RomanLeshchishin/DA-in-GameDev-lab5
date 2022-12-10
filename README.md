@@ -1,5 +1,5 @@
 # АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
-Отчет по лабораторной работе #2 выполнил(а):
+Отчет по лабораторной работе #3 выполнил(а):
 - Лещишин Роман Александрович
 - РИ-210914
 
@@ -34,18 +34,19 @@
 - Выводы.
 - ✨Magic ✨
 
+3. Лабораторная работа. Разработка системы машинного обучения
 ## Цель работы
-Познакомиться с программными средствами для организции передачи данных между инструментами google, Python и Unity
+Познакомиться с программными средствами для создания системы машинного обучения и ее интеграции в Unity.
 
 ## Задание 1
-Код в python:
-![image](https://user-images.githubusercontent.com/114608473/195446599-46d4b847-2e38-435d-9828-7883115bea18.png)
-Полученные данные после выполнения кода в python:
-![image](https://user-images.githubusercontent.com/114608473/195199283-7405f74e-ace9-45ef-b2ae-792311952fa9.png)
-Вывод данных в таблицу UnitySheets:
-![image](https://user-images.githubusercontent.com/114608473/195199513-5abae065-a196-4740-bf3a-ff05da0d4454.png)
-Вывод в консоль в проекте Unity
-![image](https://user-images.githubusercontent.com/114608473/195199792-3b7c4707-a9a5-4629-8712-90530c873b9e.png)
+Сцена в Unity:
+![ImageMLAModel2](https://user-images.githubusercontent.com/114608473/206839511-a9903740-e208-4b31-8e37-e48a51a770ce.jpg)
+![MLAModel](https://user-images.githubusercontent.com/114608473/206839518-589a142c-f926-460a-b229-e2ffbd987f3a.jpg)
+Процесс обучеия модели MLAgent:
+![ImageMLATest2](https://user-images.githubusercontent.com/114608473/206839525-a0ef91ef-20e8-45ce-bb8c-8d2aa102c118.jpg)
+![ImageMLATest1](https://user-images.githubusercontent.com/114608473/206839532-de8df685-5fc8-487d-a065-d2c27b6d90b1.jpg)
+Результаты обучения модели MLAgent:
+![unnamed](https://user-images.githubusercontent.com/114608473/206840302-4ba5776a-3c2c-44eb-b730-a5acebcc522a.png)
 Код в C#:
 ![image](https://user-images.githubusercontent.com/114608473/195441159-fd9a5468-25eb-4d98-b5b4-be33223a2f66.png)
 ![image](https://user-images.githubusercontent.com/114608473/195441218-f2f670f7-5932-4fd0-bcf2-4a46adc31a35.png)
