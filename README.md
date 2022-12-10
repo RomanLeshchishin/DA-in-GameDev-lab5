@@ -45,7 +45,7 @@
 Процесс обучения модели MLAgent:
 ![ImageMLATest2](https://user-images.githubusercontent.com/114608473/206839525-a0ef91ef-20e8-45ce-bb8c-8d2aa102c118.jpg)
 ![ImageMLATest1](https://user-images.githubusercontent.com/114608473/206839532-de8df685-5fc8-487d-a065-d2c27b6d90b1.jpg)
-Результаты обучения модели MLAgent в прикреплённом файле.
+Результаты обучения модели MLAgent в прикреплённом файле - "Результаты обучения модели MLAgent.docx".
 ## Задание 2
 Комментарии к файлу rollerball_config:
 ![ImageRollerBallConfig](https://user-images.githubusercontent.com/114608473/206841484-71d4f133-b81b-450c-8f5b-32e708ced661.jpg)
