@@ -46,7 +46,7 @@
 ![ImageMLATest2](https://user-images.githubusercontent.com/114608473/206839525-a0ef91ef-20e8-45ce-bb8c-8d2aa102c118.jpg)
 ![ImageMLATest1](https://user-images.githubusercontent.com/114608473/206839532-de8df685-5fc8-487d-a065-d2c27b6d90b1.jpg)
 Результаты обучения модели MLAgent:
-![unnamed](https://user-images.githubusercontent.com/114608473/206840302-4ba5776a-3c2c-44eb-b730-a5acebcc522a.png)
+https://keep.google.com/u/0/media/v2/1P33mwUiqCGUh…2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp
 Код в C#:
 ![image](https://user-images.githubusercontent.com/114608473/195441159-fd9a5468-25eb-4d98-b5b4-be33223a2f66.png)
 ![image](https://user-images.githubusercontent.com/114608473/195441218-f2f670f7-5932-4fd0-bcf2-4a46adc31a35.png)
