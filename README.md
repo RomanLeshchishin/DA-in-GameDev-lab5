@@ -40,6 +40,7 @@
 
 ## Задание 1
 В проекте Unity реализовать перцептрон, который умеет производить вычисления OR, AND, NAND, XOR
+
 Сцена в Unity:
 ![image](https://user-images.githubusercontent.com/114608473/207903921-99f68ff8-da40-47f9-8521-5dee59599300.png)
 Вычисление OR
