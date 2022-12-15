@@ -1,5 +1,5 @@
 # АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
-Отчет по лабораторной работе #3 выполнил(а):
+Отчет по лабораторной работе #4 выполнил(а):
 - Лещишин Роман Александрович
 - РИ-210914
 
@@ -34,18 +34,37 @@
 - Выводы.
 - ✨Magic ✨
 
-## 3. Лабораторная работа. Разработка системы машинного обучения
+## 4. Лабораторная работа. "Перцептрон"
 ## Цель работы
-Познакомиться с программными средствами для создания системы машинного обучения и ее интеграции в Unity.
+Обучение перцептрона производить вычисления OR, AND, NAND, XOR в проекте Unity.
 
 ## Задание 1
+В проекте Unity реализовать перцептрон, который умеет производить вычисления OR, AND, NAND, XOR
 Сцена в Unity:
-![ImageMLAModel2](https://user-images.githubusercontent.com/114608473/206839511-a9903740-e208-4b31-8e37-e48a51a770ce.jpg)
-![MLAModel](https://user-images.githubusercontent.com/114608473/206839518-589a142c-f926-460a-b229-e2ffbd987f3a.jpg)
-Процесс обучения модели MLAgent:
-![ImageMLATest2](https://user-images.githubusercontent.com/114608473/206839525-a0ef91ef-20e8-45ce-bb8c-8d2aa102c118.jpg)
-![ImageMLATest1](https://user-images.githubusercontent.com/114608473/206839532-de8df685-5fc8-487d-a065-d2c27b6d90b1.jpg)
-Результаты обучения модели MLAgent в прикреплённом файле - "Результаты обучения модели MLAgent.docx".
+![image](https://user-images.githubusercontent.com/114608473/207903921-99f68ff8-da40-47f9-8521-5dee59599300.png)
+Вычисление OR
+На 1 эпохе, перцептрон не успел обучиться, значит слишко мало.
+![Image_1ORtr1](https://user-images.githubusercontent.com/114608473/207904208-fc7c7521-ca2e-4b74-ac64-eb246914aa6e.jpg)
+На 3 эпохе значение ошибки осталось тем же.
+![Image_1ORtr3](https://user-images.githubusercontent.com/114608473/207904593-91e3f7f4-a760-405d-851e-5d7a3c85b728.jpg)
+Перцептрон обучился на 5 эпохе.
+![Image_1ORtr5](https://user-images.githubusercontent.com/114608473/207904728-ac2ce7c9-1599-4753-9b4f-18daa57412c2.jpg)
+Для закрепления проверил значение ошибки на 8 эпохах.
+![Image_1ORtr8](https://user-images.githubusercontent.com/114608473/207904889-4fec54c5-ba1e-4a67-b0a4-78c9856e9e56.jpg)
+Вычисление AND
+Для обучения этой операции перцептрону потребовалось больше эпох, чем в OR.
+![Image_2ANDtr1](https://user-images.githubusercontent.com/114608473/207905229-f851b8c2-949b-4249-93c0-dea48901d101.jpg)
+![Image_2ANDtr9](https://user-images.githubusercontent.com/114608473/207905283-a98c19b1-adaa-43c3-a14f-20977c0f1ed0.jpg)
+Из значений ошибки можно придти к выводу, что перцептрону для успешного обучения нужно как минимум 9 эпох.
+Вычисление NAND
+Значения ошибки при обучении очень похожи на операцию AND.
+![Image_3NANDtr1](https://user-images.githubusercontent.com/114608473/207906562-ede778b6-1dbe-430e-b210-f6fd606caf08.jpg)
+![Image_3NANDtr8](https://user-images.githubusercontent.com/114608473/207906588-0e6b0f58-32df-4212-8021-4b2cf0cb7a95.jpg)
+Вычисление XOR
+При увеличении количества эпох, значение ошибки только увеличивается, что доказывает утверждение Minsky о XOR problem.
+![Image_4XORtr1](https://user-images.githubusercontent.com/114608473/207906987-701830bf-15a5-40f2-a9da-45b73587267b.jpg)
+![Image_4XORtr16](https://user-images.githubusercontent.com/114608473/207907081-9f2c0f6b-f1da-4884-a0bc-2dfdf3f077f0.jpg)
+Перцепторон может обучаться вычислению только линейных функций, а XOR таковой не является.
 ## Задание 2
 Комментарии к файлу rollerball_config:
 ![ImageRollerBallConfig](https://user-images.githubusercontent.com/114608473/206841484-71d4f133-b81b-450c-8f5b-32e708ced661.jpg)
