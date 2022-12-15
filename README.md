@@ -73,14 +73,17 @@
 Перцепторон может обучаться вычислению только линейных функций, а XOR таковой не является.
 ## Задание 2
 Построить графики зависимости количества эпох от ошибки обучения. Указать от чего зависит необходимое количество эпох обучения.
-
 График OR
+
 ![Image_graficOR](https://user-images.githubusercontent.com/114608473/207915129-f70fb653-52b4-4f77-aaac-dc0502e0e7ce.jpg)
 График AND
+
 ![Image_graficAND](https://user-images.githubusercontent.com/114608473/207915334-496981f7-71a7-455c-b0ac-79f1ed3f7ac9.jpg)
 График NAND
+
 ![Image_graficNAND](https://user-images.githubusercontent.com/114608473/207915467-49cf6c22-c3ef-4bbd-8835-bc28acfa7e9f.jpg)
 График XOR
+
 ![Image_graficXOR](https://user-images.githubusercontent.com/114608473/207915547-62c1864e-9872-4b4b-91a8-2b20e6bf065a.jpg)
 
 ## Задание 3
