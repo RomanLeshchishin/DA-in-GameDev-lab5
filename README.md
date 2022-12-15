@@ -44,6 +44,7 @@
 Сцена в Unity:
 ![image](https://user-images.githubusercontent.com/114608473/207903921-99f68ff8-da40-47f9-8521-5dee59599300.png)
 Вычисление OR
+
 На 1 эпохе, перцептрон не успел обучиться, значит слишко мало.
 ![Image_1ORtr1](https://user-images.githubusercontent.com/114608473/207904208-fc7c7521-ca2e-4b74-ac64-eb246914aa6e.jpg)
 На 3 эпохе значение ошибки осталось тем же.
@@ -53,15 +54,18 @@
 Для закрепления проверил значение ошибки на 8 эпохах.
 ![Image_1ORtr8](https://user-images.githubusercontent.com/114608473/207904889-4fec54c5-ba1e-4a67-b0a4-78c9856e9e56.jpg)
 Вычисление AND
+
 Для обучения этой операции перцептрону потребовалось больше эпох, чем в OR.
 ![Image_2ANDtr1](https://user-images.githubusercontent.com/114608473/207905229-f851b8c2-949b-4249-93c0-dea48901d101.jpg)
 ![Image_2ANDtr9](https://user-images.githubusercontent.com/114608473/207905283-a98c19b1-adaa-43c3-a14f-20977c0f1ed0.jpg)
 Из значений ошибки можно придти к выводу, что перцептрону для успешного обучения нужно как минимум 9 эпох.
 Вычисление NAND
+
 Значения ошибки при обучении очень похожи на операцию AND.
 ![Image_3NANDtr1](https://user-images.githubusercontent.com/114608473/207906562-ede778b6-1dbe-430e-b210-f6fd606caf08.jpg)
 ![Image_3NANDtr8](https://user-images.githubusercontent.com/114608473/207906588-0e6b0f58-32df-4212-8021-4b2cf0cb7a95.jpg)
 Вычисление XOR
+
 При увеличении количества эпох, значение ошибки только увеличивается, что доказывает утверждение Minsky о XOR problem.
 ![Image_4XORtr1](https://user-images.githubusercontent.com/114608473/207906987-701830bf-15a5-40f2-a9da-45b73587267b.jpg)
 ![Image_4XORtr16](https://user-images.githubusercontent.com/114608473/207907081-9f2c0f6b-f1da-4884-a0bc-2dfdf3f077f0.jpg)
