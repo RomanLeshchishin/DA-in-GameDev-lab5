@@ -59,6 +59,7 @@
 ![Image_2ANDtr1](https://user-images.githubusercontent.com/114608473/207905229-f851b8c2-949b-4249-93c0-dea48901d101.jpg)
 ![Image_2ANDtr9](https://user-images.githubusercontent.com/114608473/207905283-a98c19b1-adaa-43c3-a14f-20977c0f1ed0.jpg)
 Из значений ошибки можно придти к выводу, что перцептрону для успешного обучения нужно как минимум 9 эпох.
+
 Вычисление NAND
 
 Значения ошибки при обучении очень похожи на операцию AND.
