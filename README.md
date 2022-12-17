@@ -82,6 +82,12 @@ beta - это сила энтропийной регуляризации, кот
 
 Изменил на 1.0e-4
 
+![Image_1BetaMain](https://user-images.githubusercontent.com/114608473/208237300-99eccdc9-d1c6-44ab-8d2e-b601e130c92a.jpg)
+
+Вознаграждение за обучение сразу достигло своего пика и перестало расти. При этом Entropy начала медленно уменьшаться.
+
+![Image_1Beta](https://user-images.githubusercontent.com/114608473/208237333-b58dbf9a-8e71-42e3-bc3d-5f45a660e650.jpg)
+
 Для обучения этой операции перцептрону потребовалось больше эпох, чем в OR.
 ![Image_2ANDtr1](https://user-images.githubusercontent.com/114608473/207905229-f851b8c2-949b-4249-93c0-dea48901d101.jpg)
 ![Image_2ANDtr9](https://user-images.githubusercontent.com/114608473/207905283-a98c19b1-adaa-43c3-a14f-20977c0f1ed0.jpg)
