@@ -43,7 +43,6 @@
 как влияют на обучение модели.
 
 Обучение модели на стандартных значениях параметров
-
 Стандартные параметры Economic.yaml:
 ![Image_1Economic](https://user-images.githubusercontent.com/114608473/208230734-ea46db26-767b-4c0f-8353-817ff01649cc.jpg)
 
