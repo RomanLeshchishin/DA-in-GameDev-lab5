@@ -52,9 +52,9 @@ Cцена в Unity
 ![Image_1TrainingMLA](https://user-images.githubusercontent.com/114608473/208230449-57001425-9950-448a-bb97-028b2aef1a1b.jpg)
 
 Результаты обучения в TensorBoard
-![Image_1TensorBoard](https://user-images.githubusercontent.com/114608473/208230495-b3ae7d0d-74c9-426d-be05-b8de7bb938eb.jpg)
+![Image_1TensorBoard](https://user-images.githubusercontent.com/114608473/208234228-f9326f0c-d53d-4d40-95f9-902a61e4f3bb.jpg)
 
-По графикам видно, что к концу обучения общее вознаграждение Cumulative Reward растёт, а потеря значения Value Loss, уменьшается.
+По графикам видно, что общее вознаграждение Cumulative Reward растёт, а потеря значения Value Loss, уменьшается.
 
 Какие параметры и как влияют на обучение модели:
 
