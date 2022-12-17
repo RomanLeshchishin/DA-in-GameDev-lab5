@@ -53,6 +53,9 @@ Cцена в Unity
 
 Результаты обучения в TensorBoard
 ![Image_1TensorBoard](https://user-images.githubusercontent.com/114608473/208230495-b3ae7d0d-74c9-426d-be05-b8de7bb938eb.jpg)
+
+По графикам видно, что к концу обучения общее вознаграждение Cumulative Reward растёт,а потеря значения Value Loss, уменьшается.
+
 Вычисление OR
 
 На 1 эпохе, перцептрон не успел обучиться, значит слишко мало.
